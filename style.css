@@ -1,0 +1,23 @@
+* {
+    background-color: rgba(214, 156, 156, 0.979);
+    font-family: sans-serif;
+}
+
+
+
+
+h1 {
+    font-size: 50px;
+    color: blueviolet;
+    text-shadow: 1px 1px #000;
+
+
+}
+
+
+
+h2 {
+    color: aqua;
+    font-size: 30px;
+    text-shadow: 1px 1px #000;
+}
